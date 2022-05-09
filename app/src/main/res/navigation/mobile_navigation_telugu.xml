@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation_hindi"
+    app:startDestination="@id/nav_gallery_telugu">
+
+    <!--These fragments are made to work on
+        all the items listed in navigation drawer
+        so that there java files can be managed separately -->
+
+    <!-- Fragment for Eenadu-->
+    <fragment
+        android:id="@+id/nav_home_telugu"
+        android:name="com.example.news.ui.home_telugu.HomeTeluguFragment"
+        android:label="Eenadu"
+        tools:layout="@layout/fragment_home_telugu" />
+
+    <!-- Fragment for TV9-->
+    <fragment
+        android:id="@+id/nav_gallery_telugu"
+        android:name="com.example.news.ui.gallery_telugu.GalleryTeluguFragment"
+        android:label="TV9"
+        tools:layout="@layout/fragment_gallery_telugu" />
+
+    <!-- Fragment for Andhra Jyothy-->
+    <fragment
+        android:id="@+id/nav_slideshow_telugu"
+        android:name="com.example.news.ui.slideshow_telugu.SlideshowTeluguFragment"
+        android:label="Andhra Jyothy"
+        tools:layout="@layout/fragment_slideshow_telugu" />
+
+    <!-- Fragment for NTV-->
+    <fragment
+        android:id="@+id/nav_window_telugu"
+        android:name="com.example.news.ui.window_telugu.WindowTeluguFragment"
+        android:label="NTV"
+        tools:layout="@layout/fragment_window_telugu" />
+
+</navigation>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home_bengali"
+            android:icon="@drawable/ktv"
+            android:menuCategory="secondary"
+            android:title="@string/ktv" />
+        <item
+            android:id="@+id/nav_gallery_hindi"
+            android:icon="@drawable/newseighteen"
+            android:menuCategory="secondary"
+            android:title="@string/_18" />
+        <item
+            android:id="@+id/nav_slideshow_bengali"
+            android:icon="@drawable/ghanta"
+            android:menuCategory="secondary"
+            android:title="@string/zg" />
+        <item
+            android:id="@+id/nav_window_bengali"
+            android:icon="@drawable/abp"
+            android:menuCategory="secondary"
+            android:title="@string/abpa" />
+
+    </group>
+
+</menu>

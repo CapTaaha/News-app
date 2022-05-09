@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation_hindi"
+    app:startDestination="@id/nav_slideshow_hindi">
+
+    <!--These fragments are made to work on
+        all the items listed in navigation drawer
+        so that there java files can be managed separately -->
+
+    <!-- Fragment for Khas Khabar-->
+    <fragment
+        android:id="@+id/nav_home_hindi"
+        android:name="com.example.news.ui.home_hindi.HomeHindiFragment"
+        android:label="Kas Khabar"
+        tools:layout="@layout/fragment_home_hindi" />
+
+    <!-- Fragment for Aaj Tak-->
+    <fragment
+        android:id="@+id/nav_gallery_hindi"
+        android:name="com.example.news.ui.gallery_hindi.GalleryHindiFragment"
+        android:label="AajTak"
+        tools:layout="@layout/fragment_gallery_hindi" />
+
+    <!-- Fragment for Dainik Bhaskar-->
+    <fragment
+        android:id="@+id/nav_slideshow_hindi"
+        android:name="com.example.news.ui.slideshow_hindi.SlideshowHindiFragment"
+        android:label="Dainik Bhaskar"
+        tools:layout="@layout/fragment_slideshow_hindi" />
+
+    <!-- Fragment for Patrika News-->
+    <fragment
+        android:id="@+id/nav_window_hindi"
+        android:name="com.example.news.ui.window_hindi.WindowHindiFragment"
+        android:label="Patrika News"
+        tools:layout="@layout/fragment_window_hindi" />
+
+</navigation>

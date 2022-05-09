@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News/app/src/main/res/layout/activity_languages.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News/app/src/main/res/layout/activity_main_english.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News/app/src/main/res/layout/app_bar_main_activity_english.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News/app/src/main/res/layout/app_bar_main_activity_hindi.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News/app/src/main/res/layout/app_bar_main_hindi.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News/app/src/main/res/layout/content_main_activity_english.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News/app/src/main/res/layout/content_main_activity_hindi.xml" value="0.1" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News/app/src/main/res/layout/fragment_aaj_tak.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News/app/src/main/res/layout/fragment_dainik_bhaskar.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News/app/src/main/res/layout/fragment_gallery.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News/app/src/main/res/layout/fragment_home.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News/app/src/main/res/layout/fragment_slideshow.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News/app/src/main/res/layout/fragment_window.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News/app/src/main/res/layout/nav_header_main_activity_english.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News/app/src/main/res/menu/activity_main_drawer.xml" value="0.1" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News/app/src/main/res/menu/main_activity_english.xml" value="0.1" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News1/app/src/main/res/layout/activity_languages.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News1/app/src/main/res/layout/activity_main.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News1/app/src/main/res/layout/activity_main_bengali.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News1/app/src/main/res/layout/activity_main_english.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News1/app/src/main/res/layout/activity_main_hindi.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News1/app/src/main/res/layout/activity_main_international.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News1/app/src/main/res/layout/activity_main_telugu.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News1/app/src/main/res/layout/app_bar_main.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News1/app/src/main/res/layout/app_bar_main_activity_bengali.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News1/app/src/main/res/layout/app_bar_main_activity_english.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News1/app/src/main/res/layout/app_bar_main_activity_hindi.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News1/app/src/main/res/layout/app_bar_main_activity_international.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News1/app/src/main/res/layout/app_bar_main_activity_telugu.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News1/app/src/main/res/layout/content_main_activity_bengali.xml" value="0.22239583333333332" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News1/app/src/main/res/layout/content_main_activity_english.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News1/app/src/main/res/layout/content_main_activity_hindi.xml" value="0.22239583333333332" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News1/app/src/main/res/layout/content_main_activity_international.xml" value="0.22239583333333332" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News1/app/src/main/res/layout/content_main_activity_telugu.xml" value="0.22239583333333332" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News1/app/src/main/res/layout/fragment_gallery.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News1/app/src/main/res/layout/fragment_gallery_bengali.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News1/app/src/main/res/layout/fragment_gallery_hindi.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News1/app/src/main/res/layout/fragment_gallery_international.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News1/app/src/main/res/layout/fragment_gallery_telugu.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News1/app/src/main/res/layout/fragment_home_bengali.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News1/app/src/main/res/layout/fragment_home_hindi.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News1/app/src/main/res/layout/fragment_home_international.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News1/app/src/main/res/layout/fragment_home_telugu.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News1/app/src/main/res/layout/fragment_slideshow.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News1/app/src/main/res/layout/fragment_slideshow_bengali.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News1/app/src/main/res/layout/fragment_slideshow_hindi.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News1/app/src/main/res/layout/fragment_slideshow_international.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News1/app/src/main/res/layout/fragment_slideshow_telugu.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News1/app/src/main/res/layout/fragment_window_bengali.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News1/app/src/main/res/layout/fragment_window_hindi.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News1/app/src/main/res/layout/fragment_window_international.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News1/app/src/main/res/layout/fragment_window_telugu.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News1/app/src/main/res/layout/nav_header_main_activity_bengali.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News1/app/src/main/res/layout/nav_header_main_activity_english.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News1/app/src/main/res/layout/nav_header_main_activity_hindi.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News1/app/src/main/res/layout/nav_header_main_activity_international.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News1/app/src/main/res/layout/nav_header_main_activity_telugu.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News1/app/src/main/res/menu/activity_main_drawer.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News1/app/src/main/res/menu/activity_main_drawer_bengali.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News1/app/src/main/res/menu/activity_main_drawer_hindi.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News1/app/src/main/res/menu/activity_main_drawer_international.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News1/app/src/main/res/menu/activity_main_drawer_telugu.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News1/app/src/main/res/menu/activity_main_hindi_drawer.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News1/app/src/main/res/menu/activity_main_telugu_drawer.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News1/app/src/main/res/menu/main.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News1/app/src/main/res/menu/main_activity_bengali.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News1/app/src/main/res/menu/main_activity_english.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News1/app/src/main/res/menu/main_activity_hindi.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News1/app/src/main/res/menu/main_activity_international.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News1/app/src/main/res/menu/main_activity_telugu.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News1/app/src/main/res/menu/main_bengali.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News1/app/src/main/res/menu/main_hindi.xml" value="0.23645833333333333" />
+        <entry key="..\:/Users/taaha/AndroidStudioProjects/News1/app/src/main/res/menu/main_telugu.xml" value="0.23645833333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home_hindi"
+            android:icon="@drawable/khaskhabar"
+            android:menuCategory="secondary"
+            android:title="@string/kk" />
+        <item
+            android:id="@+id/nav_gallery_hindi"
+            android:icon="@drawable/aajtak"
+            android:menuCategory="secondary"
+            android:title="@string/aj" />
+        <item
+            android:id="@+id/nav_slideshow_hindi"
+            android:icon="@drawable/dainikbhaskar"
+            android:menuCategory="secondary"
+            android:title="@string/dbs" />
+        <item
+            android:id="@+id/nav_window_hindi"
+            android:icon="@drawable/patrikanews"
+            android:menuCategory="secondary"
+            android:title="@string/pk" />
+
+    </group>
+
+</menu>

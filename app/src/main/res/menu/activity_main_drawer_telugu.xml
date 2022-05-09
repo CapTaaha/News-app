@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_home_telugu"
+            android:icon="@drawable/eenadu"
+            android:menuCategory="secondary"
+            android:title="@string/en" />
+        <item
+            android:id="@+id/nav_gallery_telugu"
+            android:icon="@drawable/tvnine"
+            android:menuCategory="secondary"
+            android:title="@string/_9" />
+        <item
+            android:id="@+id/nav_slideshow_telugu"
+            android:icon="@drawable/andjyo"
+            android:menuCategory="secondary"
+            android:title="@string/ajn" />
+        <item
+            android:id="@+id/nav_window_telugu"
+            android:icon="@drawable/ntv"
+            android:menuCategory="secondary"
+            android:title="@string/n" />
+
+    </group>
+
+</menu>
